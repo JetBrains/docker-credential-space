@@ -1,6 +1,6 @@
-# docker-credential-space
+# Docker credential provider for Space Container Registry
 
-## Introduction
+[![official JetBrains project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 `docker-credential-space` is a Docker credential helper for [JetBrains Space Container Registry](https://www.jetbrains.com/help/space/container-registry.html). It allows for **v18.03+ Docker clients** to easily make authenticated requests to JetBrains Space repositories (*.registry.jetbrains.space, etc.).
 
